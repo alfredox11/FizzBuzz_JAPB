@@ -1,1 +1,1 @@
-codigo que resuelve el ejercicio de FizzBuzz  para un limite de 1000 numeros utilizando el lenguiaje de programacion python.
+código que resuelve el ejercicio de FizzBuzz para un límite de 1000 números utilizando el lenguaje de programación Python.
